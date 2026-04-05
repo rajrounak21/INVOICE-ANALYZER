@@ -1,0 +1,11 @@
+pymupdf
+opencv-python
+paddlepaddle
+paddleocr
+pillow
+numpy
+matplotlib
+langchain
+langchain-google-genai
+python-dotenv
+argparse
