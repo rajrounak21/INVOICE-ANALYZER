@@ -11,7 +11,7 @@ A comprehensive, automated PDF-to-Structured-JSON pipeline designed for high-acc
 - **LLM-Powered Parsing**: Deep semantic extraction using Gemini Flash models to convert noisy text into clean JSON.
 - **Modular Design**: Completely decoupled modules for easy integration into existing workflows.
 
-## 🛠️ Project Structure
+##  Project Structure
 ```text
 PROJECT_INVOICE_ANALYZER/
 ├── src/
