@@ -1,4 +1,4 @@
-# Invoice Analyzer ML Pipeline 🚀
+# Invoice Analyzer ML Pipeline 
 
 A comprehensive, automated PDF-to-Structured-JSON pipeline designed for high-accuracy document parsing. This project utilizes PyMuPDF for conversion, PaddleOCR/OpenCV for hybrid extraction, and Gemini (Google GenAI) for semantic parsing.
 
@@ -52,5 +52,5 @@ python pipeline.py --pdf data.pdf --mode 4 --output final_analysis.json
 - **--mode 4 (Hybrid)**:
   The "Production" mode. Detects tables as physical structures and uses heuristic OpenCV checks to find checkboxes.
 
-## 📑 License
+##  License
 MIT License - Feel free to use and contribute!
