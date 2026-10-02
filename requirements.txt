@@ -2,10 +2,11 @@ pymupdf
 opencv-python
 paddlepaddle
 paddleocr
+argparse
 pillow
 numpy
 matplotlib
 langchain
 langchain-google-genai
 python-dotenv
-argparse
+
