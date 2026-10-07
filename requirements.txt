@@ -1,4 +1,5 @@
 pymupdf
+python-dotenv
 opencv-python
 paddlepaddle
 paddleocr
@@ -8,5 +9,4 @@ numpy
 matplotlib
 langchain
 langchain-google-genai
-python-dotenv
 
